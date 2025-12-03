@@ -1,67 +1,125 @@
+<!-- VARIANT: Full -->
+
 # Hi, I'm Mohammed Taha 👋
 
-**Backend Laravel Developer | API Specialist | Payment Integration Expert**
+**Backend Laravel Developer | API & Payments Specialist**
 
-Welcome to my GitHub profile! I’m a backend developer with strong expertise in Laravel, PHP, MySQL, and experience in frontend technologies such as React, HTML, CSS, JavaScript, and Bootstrap. I build APIs, manage databases, implement authentication systems, and integrate payment gateways like Stripe and PayPal.
+I design and build secure, scalable backend systems and RESTful APIs that power production-ready web applications.
 
-I’m passionate about creating clean, maintainable, and scalable backend systems, with real-world experience in e-commerce platforms, pharmacy management systems, and mental health platforms.
+---
 
-## 🌐 Connect with Me
+## About Me
 
-- **LinkedIn:** [engmohammed18](https://www.linkedin.com/in/engmohammed18/)
-- **Instagram:** [@muhammadtaha_7](https://www.instagram.com/muhammadtaha_7/)
-- **Facebook:** [Mohammed Taha](https://www.facebook.com/m7md.t187/?locale=ar_AR)
-- **WhatsApp:** [+201020822847](https://wa.me/201020822847)
+- **Core Expertise:** Laravel, RESTful API architecture, database modeling, query optimization
+- **Authentication & Security:** Sanctum, Passport, Spatie Permissions, role-based access control (RBAC)
+- **Payment Integration:** Stripe, PayPal, custom checkout flows and subscription billing
+- **Admin Dashboards:** Filament for rapid, feature-rich admin panel development
+- **Performance & Ops:** Queue systems, Redis caching, basic Docker containerization
+- **AI & Automation:** Rasa chatbot integration within Laravel applications
+- **Domain Experience:** E-commerce platforms, healthcare/medical lab systems, mental health applications, learning management systems
+- **Career Goal:** Transitioning to mid-to-senior backend roles with focus on API architecture and system design
 
-## 💻 Skills & Expertise
+---
 
-- **Backend:** Laravel 11/12, PHP 8.x, MySQL, RESTful API development
-- **Frontend:** React, Bootstrap, HTML5, CSS3, JavaScript, Formik, Swiper
-- **Authentication:** Laravel Fortify, roles & permissions (Admin/User/Super Admin)
-- **Payment Integrations:** Stripe, PayPal
-- **Tools:** Git & GitHub, VS Code, Filament Admin Panel, Postman, Laravel Artisan
+## Work Highlights
 
-## 🚀 Notable Projects
+- E-commerce APIs with product catalogs, order management, and Stripe/PayPal checkout integration
+- Medical lab management systems with multi-level role permissions and PDF report generation
+- Learning platforms with course management, user profiles, and admin dashboards
+- Mental health applications with secure data handling and AI chatbot integration
 
-### 1. E-Commerce API
-**Description:** Full-featured e-commerce backend with user authentication, product management, order management, and payment integration.
-**Technologies:** Laravel 11, MySQL, Stripe, PayPal
-**GitHub:** E-Commerce Project
+---
 
-**Features:**
-- User registration/login & social login
-- Roles & permissions: Admin & User
-- CRUD operations for products, categories, and orders
-- Payment handling using Stripe & PayPal
-- Upload and manage product images
+## Tech Stack
 
-### 2. Pharmacy Management System
-**Description:** Backend system for managing pharmacy products, stock, and orders.
-**Technologies:** Laravel, MySQL, Filament Admin Panel
-**GitHub:** Pharmacy Project
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FFAA00?style=flat&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**Features:**
-- Product & category management
-- CRUD operations for medicines & orders
-- Admin dashboard using Filament
-- Reports for sales & stock management
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | Laravel, PHP, REST APIs, Queues, Eloquent ORM |
+| **Databases** | MySQL, Redis, Database Design & Optimization |
+| **Auth** | Sanctum, Passport, Spatie Permissions, RBAC |
+| **Payments** | Stripe, PayPal, Custom Payment Flows |
+| **Tools** | Git, Docker, Composer, Postman, Filament |
 
-### 3. Mental Health Platform API
-**Description:** API backend for a mental health platform including articles, videos, podcasts, user chats, appointments, and evaluations.
-**Technologies:** Laravel 12, MySQL
-**GitHub:** Mental Health API
+---
 
-**Features:**
-- Articles, videos, podcasts CRUD
-- User appointments & chat system
-- Evaluations and scoring system
-- Authentication & role-based access
+## GitHub Stats
 
-## 📌 About Me
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedTaha187&show_icons=true&theme=dark&hide_border=true)
 
-- **Age:** 23 years
-- **Education:** Graduated from MCI Academy, 2024, Information Systems
-- **Military Status:** Exempt
-- **Languages:** Arabic (Native), English (Professional)
-- **Passion:** Backend development, APIs, payment integrations, Laravel ecosystem
-- **Goal:** Build scalable, maintainable backend systems and modern web applications
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedTaha187&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammedTaha187&theme=dark&hide_border=true)
+
+---
+
+## Contact
+
+| Platform | Link |
+|----------|------|
+| **Email** | [mohammedtaha.dev@gmail.com](mailto:mohammedtaha.dev@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/engmohammed18](https://www.linkedin.com/in/engmohammed18/) |
+| **WhatsApp** | [+20 102 082 2847](https://wa.me/201020822847) |
+| **Facebook** | [facebook.com/m7md.t187](https://www.facebook.com/m7md.t187/?locale=ar_AR) |
+| **Instagram** | [instagram.com/muhammadtaha_7](https://www.instagram.com/muhammadtaha_7/) |
+
+### Open To
+
+- Backend Developer roles (Mid / Senior level)
+- API development contracts
+- Freelance backend work
+
+---
+
+> *"Clean code, robust APIs, scalable systems."*
+
+---
+
+<!-- VARIANT: Minimal -->
+
+# Mohammed Taha
+
+**Backend Laravel Developer | API & Payments Specialist**
+
+---
+
+- Laravel & PHP expert specializing in RESTful API design
+- Payment integration experience: Stripe, PayPal
+- Admin dashboard development with Filament
+- Healthcare, e-commerce, and learning platform experience
+
+---
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FFAA00?style=flat&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MohammedTaha187&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+
+---
+
+**Connect:** [Email](mailto:mohammedtaha.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/engmohammed18/) · [WhatsApp](https://wa.me/201020822847)
+
+**Open to:** Backend roles (Mid/Senior), API projects, Freelance work
+
+---
+
+<!-- VARIANT: One-line -->
+
+Backend Laravel Developer | API & Payments Specialist | Building scalable systems with Laravel, Sanctum, Stripe & Filament | Open to mid/senior backend roles & freelance API work.
