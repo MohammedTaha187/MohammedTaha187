@@ -25,7 +25,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-\`\`\`yaml
+
 name: Mohammed Taha
 role: Backend Laravel Developer
 location: Egypt
@@ -47,7 +47,7 @@ languages:
   - English: Professional
 
 current_focus: Seeking Mid-to-Senior Backend Roles
-\`\`\`
+
 
 <br clear="right"/>
 
