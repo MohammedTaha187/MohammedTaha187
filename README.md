@@ -26,27 +26,34 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 
-name: Mohammed Taha
-role: Backend Laravel Developer
-location: Egypt
-age: 23
-education:
-  institution: MCI Academy
-  degree: Information Systems
-  year: 2024
+Name: Mohammed Taha
+Role: Backend Laravel Developer
+Location: Egypt
+Age: 23
 
-expertise:
-  - Building Scalable Backend Systems
-  - RESTful API Architecture
-  - Payment Gateway Integration (Stripe, PayPal)
-  - Database Design & Optimization
-  - Admin Dashboard Development (Filament)
+Expertise:
 
-languages:
-  - Arabic: Native
-  - English: Professional
+Designing and building scalable backend systems
 
-current_focus: Seeking Mid-to-Senior Backend Roles
+Developing robust RESTful APIs
+
+Integrating payment gateways (Stripe, PayPal)
+
+Optimizing database performance and architecture
+
+Creating modern admin dashboards with Filament
+
+Languages:
+
+Arabic: Native
+
+English: Professional
+
+Current Focus:
+
+Delivering high-quality backend solutions
+
+Seeking Mid-to-Senior Backend Developer opportunities
 
 
 <br clear="right"/>
